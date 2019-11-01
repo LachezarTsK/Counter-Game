@@ -25,7 +25,7 @@ public class Solution {
  * Moves No1 and No2 are the equivalent of removing the leading "1" from 
  * the binary representation of the integer. 
  *
- * Therefore, all three possibilties allow us to determine person 
+ * Therefore, all three possibilties allow us to determine the person 
  * who reduces the integer to one, thus the winner, by counting 
  * the total number of "1s" and the number of trailing "0s" 
  * after the last "1" in the binary representation of the initial integer.
